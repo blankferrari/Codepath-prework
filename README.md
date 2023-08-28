@@ -1,19 +1,19 @@
 # Codepath-prework
 Codepath rework project
-# Prework - *Name of App Here*
+# Prework - *Scroll*
 
-Submitted by: **Your Name Here**
+Submitted by: **Adrian Lopez**
 
-**Name of your app** is an app that... [TODO] 
+**Scroll** is an app that... is meant for scrollig similar to instagram. Very similar interface, used for communication and daily postings[TODO] 
 
-Time spent: **X** hours spent in total
+Time spent: **8** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [x] Users are see a screen with three labels and a button
+- [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
 
@@ -29,6 +29,15 @@ GIF created with ...
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## App Brainstorming (Step 4)
+1. instagram
+- unsend messages
+- send others clips
+2. twitter
+- retweet posts
+- like posts
+3. threads
+- retweet as well
+- posts professional photos
 
 ## Notes
 
