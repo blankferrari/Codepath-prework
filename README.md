@@ -16,6 +16,9 @@ The following **required** functionality is completed:
 - [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
+https://vimeo.com/858530201/61bc33f939?share=copy 
+
+I tried to start teh application and my macbook completely overheated. The application works and changes color as well whe hitting the change button. 
 
 Here's a walkthrough of implemented user stories:
 
